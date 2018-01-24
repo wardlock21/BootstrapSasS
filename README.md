@@ -8,5 +8,5 @@ Bower
 Live-Server
 Font-Awesome
 
-#How to Start
-Open index.html
+#How to Start?
+=>Open index.html
